@@ -35,6 +35,54 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Marktrodach",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-10-02T19:31:01.370Z",
+      "notes": "Test",
+      "position": {
+        "lat": "50.26390702949958",
+        "lng": "11.428649976583843"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Bad Liebenwerda",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-10-02T19:43:25.438Z",
+      "notes": "",
+      "position": {
+        "lat": "51.51061244153799",
+        "lng": "13.430095429549636"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Wetschen",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-10-02T19:52:14.881Z",
+      "notes": "",
+      "position": {
+        "lat": "52.63211655482701",
+        "lng": "8.462065135088725"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Kamlapur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-10-03T10:20:28.355Z",
+      "notes": "",
+      "position": {
+        "lat": "17.563280952578463",
+        "lng": "77.04225276254556"
+      },
+      "id": 98443204
     }
   ]
 }
